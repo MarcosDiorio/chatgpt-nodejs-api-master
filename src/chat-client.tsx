@@ -26,7 +26,7 @@ export const ChatClient = (props: Props) => {
       position: 'absolute',
       width: '100%',
       height: '100%',
-      backgroundColor: '#EDEDEF',
+      backgroundColor: '#000000',
       display: 'flex',
       alignItems: 'center',
     }}>
@@ -45,7 +45,7 @@ export const ChatClient = (props: Props) => {
               borderBottomLeftRadius: '10px',  
             }}
             style={{ 
-              backgroundColor: '#2D46C9',
+              backgroundColor: '#252526',
               color: 'white',
               fontFamily: 'segoe UI'
             }}
